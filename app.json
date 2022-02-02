@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "spart-test",
+    "slug": "spart-test",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "spart-test"
+}
